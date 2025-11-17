@@ -1,5 +1,5 @@
 # JSscriptInjector
-A javascript injector to run custom javascript code on webpages.
+A javascript injector to run custom javascript code on webpages with extra features like page edit, play sound.
 
 ## Injector Bookmarklet
 
